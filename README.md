@@ -1,2 +1,2 @@
 # Overview
-An implmentation of a simple "Fund Me" contract in Foundry
+An implementation of a simple "Fund Me" contract in Foundry
